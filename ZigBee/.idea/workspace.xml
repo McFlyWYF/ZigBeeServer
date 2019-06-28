@@ -2,37 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06a550b5-7be4-4892-8e07-539b4b2d2310" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ZigBee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ZigBee.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/ZigBee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/dataSources/0117844b-6cd7-4919-9995-e5f94982efd1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBee/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0117844b-6cd7-4919-9995-e5f94982efd1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/ZigBeeTDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/dataSources/4379a8cd-5d9e-47da-9244-c6dadca2fa8e.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/dataSources/b3ae8c60-45cf-4e9b-833c-956a0e6c83a3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/dataSources/b3ae8c60-45cf-4e9b-833c-956a0e6c83a3/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/dataSources/e60be607-1e3c-4baf-a773-ef0aa13c7a2f.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/dataSources/e60be607-1e3c-4baf-a773-ef0aa13c7a2f/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/ZigBeeTDemo/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/ZigBeeTDemo/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/ZigBeeTDemo/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/ZigBeeTDemo/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/mainapp/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZigBeeTDemo/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/ZigBeeTDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/dataSources/4379a8cd-5d9e-47da-9244-c6dadca2fa8e.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/dataSources/b3ae8c60-45cf-4e9b-833c-956a0e6c83a3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/dataSources/b3ae8c60-45cf-4e9b-833c-956a0e6c83a3/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/dataSources/e60be607-1e3c-4baf-a773-ef0aa13c7a2f.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/dataSources/e60be607-1e3c-4baf-a773-ef0aa13c7a2f/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/ZigBeeTDemo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/ZigBeeTDemo/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/ZigBeeTDemo/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/ZigBeeTDemo/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/mainapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZigBeeTDemo/manage.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,16 +64,16 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="db.sqlite3 [2]" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="db.sqlite3 [2]" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="db.sqlite3 [2]" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
       </path>
@@ -110,23 +120,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1260259848">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="mainapp_foods" value="1" />
+          <entry key="py" value="2" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="1" />
+          <entry key="Python" value="2" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZigBee/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myapp/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
                 <marker date="1561715000361" expanded="true" signature="133:449" ph="..." />
@@ -139,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/ZigBee/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
               <folding>
                 <element signature="e#630#662#0" expanded="true" />
               </folding>
@@ -147,37 +170,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_foods">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_user">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_message">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="38">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -189,7 +190,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
+            <state relative-caret-position="893">
               <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
                 <marker date="1561712521828" expanded="true" signature="98:103" ph="..." />
@@ -203,7 +204,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="304">
               <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -225,7 +226,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -284,6 +285,7 @@
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -343,9 +345,8 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23525469" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2386059" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -354,11 +355,12 @@
       <window_info anchor="bottom" id="Python Console" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32907802" />
       <window_info anchor="right" id="Database" order="0" weight="0.3297587" />
       <window_info anchor="right" id="SciView" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -379,20 +381,10 @@
     <entry file="file://$PROJECT_DIR$/ZigBee/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZigBee/urls.py">
+    <entry file="file://$PROJECT_DIR$/ZigBee/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_foods">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+        <state relative-caret-position="2299">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
@@ -403,16 +395,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="38">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -420,16 +405,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZigBee/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="893">
           <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
             <marker date="1561712521828" expanded="true" signature="98:103" ph="..." />
@@ -441,7 +419,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="304">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -452,16 +430,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f7d556b9-4cce-49f5-8013-5bb1458fdda6/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
             <marker date="1561715000361" expanded="true" signature="133:449" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f7d556b9-4cce-49f5-8013-5bb1458fdda6/schema/main/table/mainapp_foods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ZigBee/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://40ffa651-e7d3-43e3-a1dd-94b5c43de04c/schema/main/table/myapp_foods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZigBee/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
